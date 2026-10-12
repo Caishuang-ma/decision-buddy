@@ -1,0 +1,4 @@
+interface:
+  display_name: "决策搭子"
+  short_description: "像有主见的朋友一样先聊清你为什么纠结，再帮你做选择，少套话，不写分析报告"
+  default_prompt: "用 $decision-buddy 帮我选一下，先聊聊我为什么纠结。"
